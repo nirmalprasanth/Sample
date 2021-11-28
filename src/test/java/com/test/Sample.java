@@ -19,6 +19,7 @@ public class Sample {
 			if(y.getText().equals("Yellow"))
 			{
 				y.click();
+				break;
 			}
 		}
 	}
